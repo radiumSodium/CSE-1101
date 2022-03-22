@@ -3,7 +3,7 @@
 
 int main(){
 
-    printf(" ----------------- Print Character ---------------\n");
+    printf(" ----------------- Print Character and Number ---------------\n");
 
     int c;
     c = getchar();
