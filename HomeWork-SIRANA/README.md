@@ -4,7 +4,7 @@
 I am Sojibul Islam Rana (radiumSodium).
 department of Computer Science Engineering
 
-Contributer
+Contributor
 1. Faisal Ahmed
 
 We will upload all the Programming home work here.
