@@ -1,8 +1,6 @@
 # CSE-1101 Practice Problem | SI RANA | Faisal Ahmed
 
 
-I am Sojibul Islam Rana (radiumSodium).
-department of Computer Science Engineering
 
 Contributor
 1. Sojibul Islam Rana
